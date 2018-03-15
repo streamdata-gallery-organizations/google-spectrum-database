@@ -11,8 +11,8 @@ tags:
 - Spectrum
 - Network
 - Google APIs
-created: "2018-03-11"
-modified: "2018-03-11"
+created: "2018-03-15"
+modified: "2018-03-15"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-spectrum-database/master/_listings/google-spectrum-database/apis.yaml
 specificationVersion: "0.14"
 apis:
