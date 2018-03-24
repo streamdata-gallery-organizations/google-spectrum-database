@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-spectrum-database.api.streamdata.gallery
+title: Streamdata Gallery Google Spectrum Database
+url: google-spectrum-database.streamdata.gallery
 tag: Google Spectrum Database
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-spectrum-database
 github_branch: master
 collections:
