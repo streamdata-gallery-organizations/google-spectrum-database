@@ -4,7 +4,7 @@ x-collection-name: Google Spectrum Database
 x-complete: 1
 info:
   title: Google Spectrum Database
-  description: api-for-spectrummanagement-functions
+  description: api-for-spectrummanagement-functions-
   contact:
     name: Google
     url: https://google.com
