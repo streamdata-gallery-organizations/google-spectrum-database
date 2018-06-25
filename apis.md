@@ -5,7 +5,7 @@ description: This is a repository of google spectrum database APIs, self-contain
   surrounding operations.
 image: http://template.streamdata.gallery/assets/google-spectrum-database.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://google-spectrum-database.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
