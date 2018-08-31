@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Google Spectrum Database",
+	"description": "This is a repository of google spectrum database APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/google-spectrum-database.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://google-spectrum-database.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Google Spectrum Database",
+			"x-api-slug": "google-spectrum-database",
+			"description": "The Google Spectrum Database API provides PAWS-compatible JSON-RPC methods that allow devices to query the database to find available TV-band spectrum at a given geolocation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-spectrum-database-earth.jpg",
+			"humanURL": "https://www.google.com/get/spectrumdatabase/",
+			"baseURL": "://www.googleapis.com//spectrum/v1explorer/paws",
+			"tags": "Google Spectrum Database",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-spectrum-database/master/_listings/google-spectrum-database/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Google Spectrum Database",
+	"include": [
+		{
+			"name": "Google Spectrum Database",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/google-spectrum-database/master/_listings/google-spectrum-database/apis.yaml"
+		}
+	]
+}
